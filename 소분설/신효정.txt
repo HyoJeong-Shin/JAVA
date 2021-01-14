@@ -1,0 +1,7 @@
+#written by FileProperties
+#Sat Jan 09 23:30:38 KST 2021
+Year=2019
+BornYear=1999
+StudentId=20181030
+Name=ShinHyoJeong
+Location=Seoul
